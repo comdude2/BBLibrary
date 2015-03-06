@@ -1,0 +1,11 @@
+name: BBLibrary
+main: net.mcviral.dev.plugins.bblibrary.main.BBLibrary
+version: 1.0
+authors: [comdude2, anonym110]
+website: http://www.mcviral.net
+commands:
+   minigame:
+      description: This is this plugin's main command.
+      usage: /<command> help
+      permission: minigame.core.main
+      permission-message: You don't have the required permission to perform this command.

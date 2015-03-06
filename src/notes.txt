@@ -1,0 +1,2 @@
+For plugin.yml:
+	You can use "loadbefore: [plugin1, plugin2]" to load the library before them
